@@ -79,3 +79,6 @@ https://www.twblocks.com/
 
 [Shadcn Blocks]  
 https://www.shadcnblocks.com/
+
+[carousel]
+https://www.embla-carousel.com/examples/predefined/
